@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/hamzah-mark.svg" width="88" alt="Hamzah Ali monogram">
+</p>
 
-<!--
-**Humza1423/Humza1423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hamzah Ali</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Waterloo CS · full-stack software and AI systems
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamzah-ali-577b461ba/">LinkedIn</a>
+  ·
+  <a href="https://x.com/ali_hamzah1723">X / Twitter</a>
+</p>
+
+I keep pulling at problems until I can build something useful.
+
+## Toolbox
+
+| | |
+| --- | --- |
+| **Languages** | Python · TypeScript · JavaScript · Java · SQL · HTML/CSS |
+| **Frameworks** | React · Next.js · FastAPI · Flask · Django · NumPy · Tailwind CSS |
+| **AI / ML** | RAG · Machine Learning · AI-agent pipelines · Computer Vision · Conversational AI · NLP · LLMs |
+| **Engineering** | Git · Docker · AWS · Vercel · Pytest · CI/CD |
+
+## Where I’ve built
+
+**Reena Group** — AI-native ERP, agent orchestration, and automated data pipelines.  
+**Orena** — semantic retrieval, conversational AI, and full-stack agent workflows.  
+**Factful** — React and TypeScript features for an AI writing platform.
